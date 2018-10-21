@@ -1,0 +1,4 @@
+.gameboard{
+    display: flex;
+    flex-wrap: wrap
+}
