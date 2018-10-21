@@ -1,14 +1,14 @@
 {
-  "main.css": "/reactmemory/static/css/main.09f1cfb3.chunk.css",
-  "main.js": "/reactmemory/static/js/main.5ced8769.chunk.js",
-  "main.js.map": "/reactmemory/static/js/main.5ced8769.chunk.js.map",
-  "static/js/1.6105a37c.chunk.js": "/reactmemory/static/js/1.6105a37c.chunk.js",
-  "static/js/1.6105a37c.chunk.js.map": "/reactmemory/static/js/1.6105a37c.chunk.js.map",
+  "main.css": "/reactmemory/static/css/main.f03430e7.chunk.css",
+  "main.js": "/reactmemory/static/js/main.4fa9a21d.chunk.js",
+  "main.js.map": "/reactmemory/static/js/main.4fa9a21d.chunk.js.map",
+  "static/js/1.7eae6140.chunk.js": "/reactmemory/static/js/1.7eae6140.chunk.js",
+  "static/js/1.7eae6140.chunk.js.map": "/reactmemory/static/js/1.7eae6140.chunk.js.map",
   "runtime~main.js": "/reactmemory/static/js/runtime~main.723ddd8e.js",
   "runtime~main.js.map": "/reactmemory/static/js/runtime~main.723ddd8e.js.map",
   "static/media/logo.svg": "/reactmemory/static/media/logo.5d5d9eef.svg",
-  "static/css/main.09f1cfb3.chunk.css.map": "/reactmemory/static/css/main.09f1cfb3.chunk.css.map",
+  "static/css/main.f03430e7.chunk.css.map": "/reactmemory/static/css/main.f03430e7.chunk.css.map",
   "index.html": "/reactmemory/index.html",
-  "precache-manifest.4f525e9b4d30adf6da253deec5831711.js": "/reactmemory/precache-manifest.4f525e9b4d30adf6da253deec5831711.js",
+  "precache-manifest.78cde1134a835e1fae6cbbbc230cb417.js": "/reactmemory/precache-manifest.78cde1134a835e1fae6cbbbc230cb417.js",
   "service-worker.js": "/reactmemory/service-worker.js"
 }
