@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+body{
+    background: url(https://img-www.tf-cdn.com/show/2/rick-and-morty.jpeg);
+}
+.gameintro{
+    display: flex;
+    justify-content: center;
+}
+.optionwrapper{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0px 10px;
+}
+
+.optionwrapper{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0px 10px;
+}
+.modal{
+    text-align: center;
+    margin-top:2%;
+}

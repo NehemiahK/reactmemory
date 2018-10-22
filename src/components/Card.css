@@ -1,4 +1,29 @@
-.memorycard{
-    border: 1px black solid;
-    width: 200px;
+.memorycard img {
+    width: 10em;
+    height:10em;
+    margin: 10px;
+    
+}
+
+.memorycard.flipped img {
+    transition: transform 1.5s;
+    transform: rotateY( 360deg );
+}
+
+@media only screen and (max-width: 1290px) {
+    .memorycard img {
+        width: 8em;
+        height:8em;
+        margin: 5px;
+    }
+    
+}
+
+@media only screen and (max-width: 1000px) {
+    .memorycard img {
+        width: 3em;
+        height:3em;
+        margin: 10px;
+    }
+    
 }

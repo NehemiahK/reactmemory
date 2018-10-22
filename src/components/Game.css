@@ -1,4 +1,21 @@
 .gameboard{
     display: flex;
-    flex-wrap: wrap
+    flex-wrap: wrap;
+    max-width: 1500px;
+    justify-content: center;
+    margin: 0em 10em;
+}
+
+@media only screen and (max-width: 1290px) {
+    .gameboard{
+        margin: 0em 7em;
+    }
+    
+}
+
+@media only screen and (max-width: 600px) {
+    .gameboard{
+        margin: 0em 0em;
+    }
+    
 }
