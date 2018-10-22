@@ -4,12 +4,12 @@ self.__precacheManifest = [
     "url": "/reactmemory/static/media/2.79364299.jpg"
   },
   {
-    "revision": "899187012e19ae80249b",
-    "url": "/reactmemory/static/css/main.5b5a0604.chunk.css"
+    "revision": "40446131c2be5560497d",
+    "url": "/reactmemory/static/css/main.17c9e92d.chunk.css"
   },
   {
-    "revision": "5e36a6265b3270465cbf",
-    "url": "/reactmemory/static/js/1.5e36a626.chunk.js"
+    "revision": "b5c7cb354f073777f617",
+    "url": "/reactmemory/static/js/1.b5c7cb35.chunk.js"
   },
   {
     "revision": "723ddd8e19e8447d4272",
@@ -32,8 +32,8 @@ self.__precacheManifest = [
     "url": "/reactmemory/static/media/12.2e40e739.jpg"
   },
   {
-    "revision": "899187012e19ae80249b",
-    "url": "/reactmemory/static/js/main.89918701.chunk.js"
+    "revision": "40446131c2be5560497d",
+    "url": "/reactmemory/static/js/main.40446131.chunk.js"
   },
   {
     "revision": "56cdf1a376b4f3f47a39555c6fa13c2f",
@@ -64,7 +64,7 @@ self.__precacheManifest = [
     "url": "/reactmemory/static/media/texture.4f6f7914.jpg"
   },
   {
-    "revision": "937677434536d2289d74336813459dbe",
+    "revision": "91c6fae890ba97fc735458067508190d",
     "url": "/reactmemory/index.html"
   }
 ];

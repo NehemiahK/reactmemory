@@ -1,9 +1,9 @@
 {
-  "main.css": "/reactmemory/static/css/main.5b5a0604.chunk.css",
-  "main.js": "/reactmemory/static/js/main.89918701.chunk.js",
-  "main.js.map": "/reactmemory/static/js/main.89918701.chunk.js.map",
-  "static/js/1.5e36a626.chunk.js": "/reactmemory/static/js/1.5e36a626.chunk.js",
-  "static/js/1.5e36a626.chunk.js.map": "/reactmemory/static/js/1.5e36a626.chunk.js.map",
+  "main.css": "/reactmemory/static/css/main.17c9e92d.chunk.css",
+  "main.js": "/reactmemory/static/js/main.40446131.chunk.js",
+  "main.js.map": "/reactmemory/static/js/main.40446131.chunk.js.map",
+  "static/js/1.b5c7cb35.chunk.js": "/reactmemory/static/js/1.b5c7cb35.chunk.js",
+  "static/js/1.b5c7cb35.chunk.js.map": "/reactmemory/static/js/1.b5c7cb35.chunk.js.map",
   "runtime~main.js": "/reactmemory/static/js/runtime~main.723ddd8e.js",
   "runtime~main.js.map": "/reactmemory/static/js/runtime~main.723ddd8e.js.map",
   "static/media/texture.jpg": "/reactmemory/static/media/texture.4f6f7914.jpg",
@@ -18,8 +18,8 @@
   "static/media/8.jpg": "/reactmemory/static/media/8.80765c88.jpg",
   "static/media/9.jpg": "/reactmemory/static/media/9.34dc1b7c.jpg",
   "static/media/10.jpg": "/reactmemory/static/media/10.80e00a3b.jpg",
-  "static/css/main.5b5a0604.chunk.css.map": "/reactmemory/static/css/main.5b5a0604.chunk.css.map",
+  "static/css/main.17c9e92d.chunk.css.map": "/reactmemory/static/css/main.17c9e92d.chunk.css.map",
   "index.html": "/reactmemory/index.html",
-  "precache-manifest.7e97c43e299f3a063db4dd029f250040.js": "/reactmemory/precache-manifest.7e97c43e299f3a063db4dd029f250040.js",
+  "precache-manifest.abfd3fd745edadf107fc244e40482d3c.js": "/reactmemory/precache-manifest.abfd3fd745edadf107fc244e40482d3c.js",
   "service-worker.js": "/reactmemory/service-worker.js"
 }
