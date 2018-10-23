@@ -4,12 +4,12 @@ self.__precacheManifest = [
     "url": "/reactmemory/static/media/2.79364299.jpg"
   },
   {
-    "revision": "d1e8304b7744c32361a7",
-    "url": "/reactmemory/static/css/main.9158b60a.chunk.css"
+    "revision": "4320e05fa90601efa10d",
+    "url": "/reactmemory/static/css/main.7e997331.chunk.css"
   },
   {
-    "revision": "5e36a6265b3270465cbf",
-    "url": "/reactmemory/static/js/1.5e36a626.chunk.js"
+    "revision": "ea77aa71d2f50530f1d9",
+    "url": "/reactmemory/static/js/1.ea77aa71.chunk.js"
   },
   {
     "revision": "723ddd8e19e8447d4272",
@@ -18,6 +18,10 @@ self.__precacheManifest = [
   {
     "revision": "e4e7cbe59e0e0c048f930f24a16f5815",
     "url": "/reactmemory/static/media/win.e4e7cbe5.jpg"
+  },
+  {
+    "revision": "ee7cd8ed2dcec943251eb2763684fc6f",
+    "url": "/reactmemory/static/media/logo.ee7cd8ed.svg"
   },
   {
     "revision": "80e00a3b905168f2da7dd4ab2ffcddb4",
@@ -32,8 +36,8 @@ self.__precacheManifest = [
     "url": "/reactmemory/static/media/12.2e40e739.jpg"
   },
   {
-    "revision": "d1e8304b7744c32361a7",
-    "url": "/reactmemory/static/js/main.d1e8304b.chunk.js"
+    "revision": "4320e05fa90601efa10d",
+    "url": "/reactmemory/static/js/main.4320e05f.chunk.js"
   },
   {
     "revision": "56cdf1a376b4f3f47a39555c6fa13c2f",
@@ -64,7 +68,7 @@ self.__precacheManifest = [
     "url": "/reactmemory/static/media/texture.4f6f7914.jpg"
   },
   {
-    "revision": "9a208fdd73d81f8e56154d75ec543f39",
+    "revision": "c498c8143280e57f0bb3236f247399f1",
     "url": "/reactmemory/index.html"
   }
 ];
