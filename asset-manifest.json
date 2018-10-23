@@ -1,7 +1,7 @@
 {
   "main.css": "/reactmemory/static/css/main.7e997331.chunk.css",
-  "main.js": "/reactmemory/static/js/main.4320e05f.chunk.js",
-  "main.js.map": "/reactmemory/static/js/main.4320e05f.chunk.js.map",
+  "main.js": "/reactmemory/static/js/main.bb8ddbab.chunk.js",
+  "main.js.map": "/reactmemory/static/js/main.bb8ddbab.chunk.js.map",
   "static/js/1.ea77aa71.chunk.js": "/reactmemory/static/js/1.ea77aa71.chunk.js",
   "static/js/1.ea77aa71.chunk.js.map": "/reactmemory/static/js/1.ea77aa71.chunk.js.map",
   "runtime~main.js": "/reactmemory/static/js/runtime~main.723ddd8e.js",
@@ -21,6 +21,6 @@
   "static/media/logo.svg": "/reactmemory/static/media/logo.ee7cd8ed.svg",
   "static/css/main.7e997331.chunk.css.map": "/reactmemory/static/css/main.7e997331.chunk.css.map",
   "index.html": "/reactmemory/index.html",
-  "precache-manifest.55ad6e3b719da4329512fa8155c00450.js": "/reactmemory/precache-manifest.55ad6e3b719da4329512fa8155c00450.js",
+  "precache-manifest.9e81107875565cbc5cd7be20418b6fd8.js": "/reactmemory/precache-manifest.9e81107875565cbc5cd7be20418b6fd8.js",
   "service-worker.js": "/reactmemory/service-worker.js"
 }
